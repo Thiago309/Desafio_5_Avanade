@@ -1,55 +1,139 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Você seria um herói ou vilão?",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 6,
+      "question": "O que você faria se visse um assalto acontecendo?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Intervir imediatamente para impedir.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Esperar para ver o que acontece.",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Roubar também e fugir.",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Chamar a polícia.",
+          "alias": "B"
+        }
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 7,
+      "question": "Qual seria sua base de operações?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Um arranha-céu com tecnologia de ponta.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Um esconderijo subterrâneo secreto.",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Uma fortaleza no topo de uma montanha.",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Um castelo sombrio e impenetrável.",
+          "alias": "A"
+        }
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 8,
+      "question": "Se você pudesse recrutar um ajudante, quem seria?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Um cientista brilhante.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Um criminoso genial.",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Um ser místico poderoso.",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Um jovem aprendiz para ensinar.",
+          "alias": "B"
+        }
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 9,
+      "question": "O que você faria com um artefato superpoderoso?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Usaria para proteger o mundo.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Guardaria para estudo.",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Venderia para o maior lance.",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Usaria para dominar o planeta.",
+          "alias": "A"
+        }
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 10,
+      "question": "Qual seu lema como super ser?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Com grandes poderes, vem grandes responsabilidades.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "O mundo é dos mais fortes.",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Farei o que for preciso para vencer.",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Ajustiça sempre prevalecerá!",
+          "alias": "B"
+        }
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "A": "Você muito provavelmente seria um super vilão!  >=)",
+    "B": "Você muito provavelmente seria um super herói!  =D"
   }
 }
